@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and archived software release when using these scripts."
+title: "Analysis scripts for multimodal cell–microvasculature analysis in the human superior colliculus"
+type: software
+authors:
+  - family-names: Woldegiorgis
+    given-names: Yabets
+version: 1.0.0
+
